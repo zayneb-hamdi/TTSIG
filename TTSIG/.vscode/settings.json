@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "JMapViewer-1.14.1-sources.jar",
+            "libs/jmapviewer-2.14.jar",
+            "libs/mysql-connector-java-5.0.7-bin.jar"
+        ],
+        "exclude": [
+            "libs/JMapViewer-1.14.1-Demo.jar",
+            "c:\\Users\\HAMDI\\Downloads\\jmapviewer-2.14.jar"
+        ]
+    }
+}

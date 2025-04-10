@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "TTSIG/libs/jmapviewer-2.14.jar",
+        "TTSIG/libs/mysql-connector-java-5.0.7-bin.jar"
+    ]
+}
