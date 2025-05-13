@@ -40,3 +40,10 @@ A basic authentication system using Java WebSocket API that:
 - Java WebSocket API (javax.websocket)
 - JDBC for database operations
 - MySQL or SQLite (configurable)
+## Interfaces
+![image](https://github.com/user-attachments/assets/1bceb258-2da5-424b-9465-83dfb461f25c)
+![image](https://github.com/user-attachments/assets/52cf254c-bd90-4f11-83de-c84bee2c67f1)
+![image](https://github.com/user-attachments/assets/9832ae5c-5e8b-4ef6-835d-d1cd4174c55c)
+## Author
+zayneb hamdi
+Internship Project at Tunisie Telecom
