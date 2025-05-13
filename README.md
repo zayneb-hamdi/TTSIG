@@ -32,4 +32,11 @@ A basic authentication system using Java WebSocket API that:
 - Authenticates users before giving access to GIS or Chat modules.
 - Uses a WebSocket-based client/server communication model.
 - Can be extended to support session management and roles.
-
+## 🛠️ Technologies Used
+- Java SE 8+
+- Swing for GUI
+- JMapViewer for map rendering
+- Java RMI for real-time communication
+- Java WebSocket API (javax.websocket)
+- JDBC for database operations
+- MySQL or SQLite (configurable)
