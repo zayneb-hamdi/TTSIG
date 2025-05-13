@@ -25,3 +25,11 @@ Features:
 - Built with Java RMI (Remote Method Invocation).
 - Supports multiple clients connected to a central server.
 - Simple Swing GUI for message input and display.
+
+### 3. 🔐 Login Module – Java WebSocket
+A basic authentication system using Java WebSocket API that:
+
+- Authenticates users before giving access to GIS or Chat modules.
+- Uses a WebSocket-based client/server communication model.
+- Can be extended to support session management and roles.
+
