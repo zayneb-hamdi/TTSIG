@@ -66,7 +66,10 @@ Run the following commands in your MySQL terminal:
    sender VARCHAR(255) NOT NULL,
    TEXTcontent NOT NULL
    );
-
+### run the application
+run ChatServerImplement.java  
+run LoginServer.java  
+run App.java  
 ## Interfaces
 ![image](https://github.com/user-attachments/assets/1bceb258-2da5-424b-9465-83dfb461f25c)
 ![image](https://github.com/user-attachments/assets/52cf254c-bd90-4f11-83de-c84bee2c67f1)
