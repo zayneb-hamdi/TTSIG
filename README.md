@@ -39,7 +39,34 @@ A basic authentication system using Java WebSocket API that:
 - Java RMI for real-time communication
 - Java WebSocket API (javax.websocket)
 - JDBC for database operations
-- MySQL 
+- MySQL
+
+## configuration and Setup
+### Database Setup
+
+To set up the MySQL databases for this project, follow these steps:
+1. Create Databases
+2. dvsv
+Run the following commands in your MySQL terminal:  
+   ```sql
+   CREATE DATABASE IF NOT EXISTS layerdb;
+   CREATE DATABASE IF NOT EXISTS chatdb;
+2. Create tables
+   ```sql
+   USE layerdb;
+   CREATE TABLE IF NOT EXISTS layer (
+   id INT AUTO_INCREMENT PRIMARY KEY,
+   nom VARCHAR(255) NOT NULL,
+   latitude DECIMAL(10, 7) NOT NULL,
+   longitude DECIMAL(10, 7) NOT NULL
+   );
+   USE chatdb;
+   CREATE TABLE IF NOT EXISTS message (
+   id INT AUTO_INCREMENT PRIMARY KEY,
+   sender VARCHAR(255) NOT NULL,
+   TEXTcontent NOT NULL
+   );
+
 ## Interfaces
 ![image](https://github.com/user-attachments/assets/1bceb258-2da5-424b-9465-83dfb461f25c)
 ![image](https://github.com/user-attachments/assets/52cf254c-bd90-4f11-83de-c84bee2c67f1)
