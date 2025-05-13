@@ -45,5 +45,5 @@ A basic authentication system using Java WebSocket API that:
 ![image](https://github.com/user-attachments/assets/52cf254c-bd90-4f11-83de-c84bee2c67f1)
 ![image](https://github.com/user-attachments/assets/9832ae5c-5e8b-4ef6-835d-d1cd4174c55c)
 ## Author
-zayneb hamdi
+zayneb hamdi  
 Internship Project at Tunisie Telecom
