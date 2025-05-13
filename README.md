@@ -33,13 +33,13 @@ A basic authentication system using Java WebSocket API that:
 - Uses a WebSocket-based client/server communication model.
 - Can be extended to support session management and roles.
 ## 🛠️ Technologies Used
-- Java SE 8+
+- Java 
 - Swing for GUI
 - JMapViewer for map rendering
 - Java RMI for real-time communication
 - Java WebSocket API (javax.websocket)
 - JDBC for database operations
-- MySQL or SQLite (configurable)
+- MySQL 
 ## Interfaces
 ![image](https://github.com/user-attachments/assets/1bceb258-2da5-424b-9465-83dfb461f25c)
 ![image](https://github.com/user-attachments/assets/52cf254c-bd90-4f11-83de-c84bee2c67f1)
