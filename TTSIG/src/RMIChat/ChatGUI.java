@@ -48,7 +48,7 @@ public class ChatGUI extends JFrame{
         fieldMessage=new JTextField();
         areaChat=new JTextArea();
         buttonSend=new JButton("envoyer");
-        icon=new ImageIcon("C:\\Users\\HAMDI\\Desktop\\projects summer 2024\\TTSIG\\TTSIG\\lib\\communauté.jpg");
+        icon=new ImageIcon("TTSIG\\lib\\communauté.jpg");
         labelImage=new JLabel(icon);
 
 
